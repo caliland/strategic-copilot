@@ -1,0 +1,364 @@
+=== JOB 1 ===
+Content Delivery Manager
+Location Gaithersburg, Maryland, United States Job ID R-257123 Date posted 23/07/2026
+Introduction to role:
+
+Are you ready to orchestrate an omnichannel content engine that accelerates impact for patients and healthcare teams? Do you thrive at the intersection of marketing operations, creative production, and technology, turning complexity into clarity and speed?
+
+As Content Delivery Manager, you will be the primary partner to our brand teams, leading the coordination and execution of digital and print content that fuels launches, strengthens market presence, and upholds the highest standards of quality and compliance. You will connect marketing, creative studios, production partners, and asset management teams into a cohesive, high-performing delivery model that moves at pace and scales across campaigns.
+
+In this role, you will evolve how we work—introducing AI-enabled capabilities, streamlining processes, and championing continuous improvement across the content supply chain. Your leadership will help ensure our science reaches the right audiences at the right time, supporting our ambition to transform outcomes in cancer care.
+Accountabilities:
+
+    Brand and Stakeholder Partnership: Serve as the market-facing content delivery partner to brand teams. Build trusted relationships across Marketing, Omnichannel, Creative, agencies, and production vendors to align on goals and translate business needs into clear production plans and delivery schedules.
+    Content Production and Delivery: Lead end-to-end planning, coordination, and execution of digital and print content. Orchestrate internal studios, delivery teams, and preferred production partners to deliver on time, within budget, and to rigorous quality and compliance standards—driving measurable commercial impact.
+    Content Operations and Asset Management: Partner with content library and DAM stakeholders to enforce governance, metadata, and discoverability. Increase reuse and speed by ensuring proper storage of source, working, and approved assets, with disciplined version control and archival aligned to enterprise standards.
+    Project and Work Management: Manage workflows and capacity using Adobe Workfront, JIRA, and enterprise tools. Maintain schedules, risks, dependencies, and priorities; drive transparency through accurate tracking and status reporting across a portfolio of concurrent projects.
+    Budget Stewardship: Oversee budget management for content delivery services allocated to brand teams, optimizing spend and vendor utilization while meeting performance and quality targets.
+    Operational Excellence and Transformation: Identify and implement process improvements that elevate efficiency, quality, and stakeholder experience. Champion adoption of new technologies, automation, and AI-enabled solutions; lead change that strengthens our content supply chain and ways of working.
+
+Essential Skills/Experience:
+
+    High School Diploma/GED or equivalent
+    7+ years of experience in Content Delivery, Marketing Operations, Digital Production, Creative Operations, Agency Management, or related disciplines
+    Strong project management and stakeholder management skills
+    Experience managing multiple concurrent projects in a fast-paced environment
+    Ability to work effectively across matrixed and cross-functional organizations
+    Excellent communication, collaboration, and organizational skills
+
+Desirable Skills/Experience:
+
+    Bachelor's Degree or equivalent work experience
+    Experience in pharmaceutical, healthcare, life sciences, or other regulated industries
+    Experience with Adobe Workfront, JIRA, DAM platforms, enterprise workflow tools, content governance and asset lifecycle best practices
+    Experience coordinating across internal creative studios, agencies, production vendors, and distributed delivery teams
+    Customer-focused, relationship-oriented, adaptable, and comfortable working through change, transformation, and evolving ways of working
+    Curious and innovation-minded, with openness to AI-enabled capabilities, automation, and continuous improvement
+
+When we put unexpected teams in the same room, we unleash bold thinking with the power to inspire life-changing medicines. In-person working gives us the platform we need to connect, work at pace and challenge perceptions. That's why we work, on average, a minimum of three days per week from the office. But that doesn't mean we're not flexible. We balance the expectation of being in the office while respecting individual flexibility. Join us in our unique and ambitious world.
+Why AstraZeneca:
+
+Here, mission meets momentum. You will work side by side with diverse, global experts—spanning commercial, R&D, data, and creative—to bring cutting-edge science to patients faster. We combine entrepreneurial ownership with deep collaboration, using digital innovation, AI, and disciplined execution to reshape the patient experience in oncology. We value kindness alongside ambition, encourage bold ideas, and learn quickly from experimentation so that individual contributions add up to impact at scale.
+
+Own the content supply chain that powers life-changing oncology brands—join us to lead, simplify, and deliver with impact today!
+
+
+=== JOB 2 ===
+About Nexcess 
+Nexcess provides specialty cloud solutions for organizations where performance and compliance have to coexist. We serve businesses worldwide, from agencies scaling client sites to enterprises running mission-critical operations. We've built our reputation on deep technical expertise and genuine partnership with every client we work with. Behind every environment we manage is a team of people who take the craft seriously and keep showing up when it matters.
+
+Overview 
+The Senior Manager, Digital Experience Operations serves as the operational engine behind Nexcess.com — a revenue-generating digital experience that drives customer acquisition, upgrades, and commercial growth. This role partners closely with the Director of Digital Experience to ensure the team operates efficiently, scales effectively, and delivers measurable business impact.
+
+This individual will own the operational cadence of the Digital Experience team, including launch planning, intake management, CMS governance, sprint coordination, QA processes, and cross-functional execution. The role is responsible for improving velocity, reducing friction in the brief-to-launch process, and ensuring the organization’s highest-priority digital initiatives are delivered successfully.
+
+The ideal candidate brings a strong operational mindset, commercial awareness, and the ability to connect cross-functional teams across CRO, UX, SEO, analytics, design, and engineering. This role is highly visible and plays a critical part in enabling the Director of Digital Experience to focus on strategic initiatives, executive stakeholder management, and long-term growth planning.
+
+This role is fully remote in the US
+
+The compensation for the role is between $110k-$160k
+
+Responsibilities
+Own and maintain the Digital Experience team’s operational cadence, including quarterly roadmap planning, launch calendars, sprint planning, weekly conversion reviews, and monthly performance reporting
+Manage the end-to-end web intake and prioritization process, including stakeholder alignment, resourcing decisions, and backlog governance
+Drive improvements in brief-to-launch cycle time through process optimization, workflow management, and operational transparency
+Establish and enforce CMS governance standards, QA processes, accessibility checks, and launch measurement validation requirements
+Partner with CRO stakeholders to support testing velocity, backlog hygiene, hypothesis documentation, and learnings library maintenance
+Lead the operational management of the Liquid Web brand migration program, including timelines, milestone tracking, risk management, and executive reporting
+Manage and develop the Digital Experience Coordinator role, including hiring, onboarding, coaching, and career progression
+Facilitate collaboration across CRO, SEO, UX Research, Design, Analytics, and Engineering teams to remove blockers and maintain execution momentum
+Support launch readiness through vendor coordination, front-end engineering alignment, and stakeholder communication
+Monitor and report on operational KPIs, including sprint completion rates, launch performance, test throughput, and cycle-time efficiency
+Partner with Analytics & Measurement stakeholders to improve instrumentation standards and launch measurement compliance
+Identify operational gaps and proactively recommend scalable process improvements that support revenue growth
+Represent the Digital Experience function in cross-functional meetings and stakeholder discussions as needed
+Other duties as assigned 
+Requirements
+Seven or more years of experience in digital operations, web operations, eCommerce, DTC, or digital experience management
+Experience managing launch cadence, CMS governance, intake processes, and cross-functional web execution at scale
+Strong understanding of conversion rate optimization (CRO) operating environments and experimentation workflows
+Experience working with web analytics instrumentation, data layers, tagging, and measurement validation processes
+Demonstrated ability to manage complex digital programs such as brand migrations, replatforming initiatives, or domain consolidations
+Strong project management, prioritization, and organizational skills
+Experience collaborating across design, development, analytics, marketing, and product teams
+Ability to balance operational rigor with execution speed in a fast-paced environment
+Excellent written and verbal communication skills
+Strong stakeholder management and decision-making capabilities
+Experience managing or mentoring junior team members 
+Preferred Qualifications
+Experience within SaaS, subscription-based, hosting, or commerce-driven businesses
+Familiarity with experimentation frameworks including hypothesis documentation, ICE scoring, and testing roadmaps
+Experience supporting high-volume websites with significant revenue accountability
+Knowledge of accessibility standards, QA best practices, and digital governance processes
+Experience working in remote-first or distributed organizations 
+Work Environment The physical demands described here are representative of those that must be met by an individual to successfully perform the essential duties of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential duties.
+
+While performing the essential duties of this job, the individual is regularly required to speak and hear
+While performing the essential duties of this job, the individual is regularly required to use hands for keyboarding, gross manipulation, and fine manipulation
+Works at a desk and computer screen for extended periods of time
+Works in a traditional climate controlled office environment or from home
+Works in a highly stressful environment dealing with a wide variety of challenges, deadlines, and diverse employee population
+
+=== JOB 3 ===
+At Jazz, we are reimagining how we design and deliver more precise customer experiences, enabled by new technologies, modern ways of working, and high performing team behaviors. Through this work, we enable teams to better understand patients, caregivers, and HCPs, anticipate their needs across the enterprise, deliver timely and personalized engagement, and orchestrate seamless, end-to-end experiences as One Jazz.
+
+The Manager, Content Factory (Operations + Personalization), is responsible for driving the end-to-end execution of the centralized content operating model, ensuring efficient content intake, production, localization, and deployment across Franchise, Market Access, and Medical Affairs. This role ensures content is modular, reusable, and personalization-ready, enabling scalable omnichannel execution while partnering closely with brands, agencies, and cross-functional teams to deliver high-quality, compliant assets aligned to CX standards and ways of working. This role reports to the Content Development & Deployment Suite Lead and partners closely with the Content Factory Lead and Content Factory (Librarian) to ensure the Content Factory team consistently delivers value to the business through strong partnership and execution.
+
+Essential Functions/Responsibilities
+
+Key Responsibilities:
+
+    ​Support execution of the end-to-end content lifecycle across Franchise, Market Access, and Medical Affairs content.
+
+    Help operationalize the Content Factory model, including intake, prioritization, localization, adaptation, and deployment across brands and channels.
+
+    Translate brand and engagement requirements into modular, reusable content and personalized variants for use in omnichannel execution.
+
+    Coordinate execution across content creators, agencies, MLR, and deployment teams to ensure timely and compliant delivery.
+
+    Support agency execution to ensure assets meet omnichannel, personalization, and platform requirements.
+
+    Assist in enabling content personalization at scale, including supporting tagging, modular assembly, and GenAI-enabled derivative content creation.
+
+    Identify execution of bottlenecks and optimization opportunities; drive continuous improvement in speed, quality, and reuse.
+
+    Leverage content performance insights to inform optimization and content investment decisions.
+
+Collaboration:
+
+    Partner with Campaign Orchestration and Customer Engagement, Events and Meetings teams to align content to journeys, channels, and targeting strategies.
+
+    Work closely with MLR Ops to ensure smooth, compliant review and approval workflows.
+
+    Coordinate with global capability teams (DAM, content tools, GenAI) to adopt and optimize platforms and workflows.
+
+Required Knowledge, Skills, and Abilities 
+
+​Technical Skills:
+
+    ​Strong experience managing end-to-end content operations in an omnichannel environment.
+
+    Expertise in modular content design, personalization, and content reuse strategies.
+
+    Experience working with DAM, CMS, and content supply chain tools.
+
+    Familiarity with GenAI-enabled content creation and tagging approaches.
+
+    Ability to operate within a capability-enabled, standardized operating model.
+
+​Business Skills:
+
+    Cross functional Matrix Collaboration – Ability to work fluidly across teams and reporting lines respecting SME, coordinating shared work, ensuring progress even when accountability is distributed – supporting decisions with professional alignment and focus on collective success. Deeply understands and values unique capabilities and perspectives of diverse functions.
+
+    Accountability & Ownership – Ability to take responsibility for individual commitments while contributing to shared accountability, ensuring progress through proactive action and alignment with team goals.
+
+    Critical Thinking – Ability to assess a range of inputs objectively, challenge assumptions with curiosity, and generate sound, forward‑looking judgments that improve decisions.
+
+    Systems Thinking – Ability to understand how actions create upstream and downstream effects across the organization, seeing patterns and interdependencies to improve the whole ecosystem, not just individual parts.
+
+    Continuous Improvement – Ability to regularly improve processes/capabilities through reflection and iteration, generates new options and approaches when constraints exist, growth mindset, challenges status quo.
+
+Required/Preferred Education and Licenses
+
+Qualifications:
+
+    Bachelor’s degree in business, healthcare, technology, or related field.
+
+    5+ years of experience in content standards, digital asset management platforms, content management systems, and modular content frameworks within a pharmaceutical organization.
+
+    Demonstrated experience leading teams that include Managers or Senior Managers, with accountability for team performance, development, and outcomes.
+
+Preferred / Additional Qualifications:
+
+    Advanced degree (MBA or relevant graduate degree) preferred.
+
+    Experience in healthcare, pharmaceutical, or other highly regulated industries preferred.
+
+    Experience working in rare disease or specialty brands, with strong understanding of unique stakeholder dynamics.
+
+Working Requirements:
+
+    20-30% travel will be required.
+
+Jazz Expected Behaviors 
+
+    Demonstrates ownership and accountability, taking responsibility for outcomes and driving work forward with urgency, clarity, and a focus on impact. 
+
+    Leads with curiosity and a Growth Mindset, actively exploring user needs, emerging technologies, and new ways of working to elevate capability and innovation. 
+
+    Embraces change as a learning opportunity, adapting quickly, modeling resilience, and helping others navigate dynamic environments. 
+
+    Acts with a One Jazz mindset, prioritizing global value, breaking down silos, and building strong, trust-based partnerships across teams. 
+
+    Delivers high performance results, setting ambitious goals, challenging assumptions, and consistently driving measurable business impact. 
+
+    Models inclusive, collaborative leadership, creating space for diverse perspectives and empowering others to contribute their best work. 
+
+    Invest in continuous learning, developing personal skills while coaching and elevating the capabilities of colleagues and cross functional partners. 
+
+    Navigates ambiguity with confidence, using sound judgment, data, and user insights to make informed decisions even when information is incomplete. 
+
+    Communicates with clarity and influence, simplifying complexity, aligning stakeholders, and ensuring shared understanding of priorities and outcomes. 
+
+=== JOB 4 ===
+
+Manager-III (Web Services & Digital Platform Manager), Grade M3 | Montgomery County Government Careers page has loaded.
+
+Salary
+$98,662.00 - $174,642.00 Annually
+Location
+27 Courthouse Sq Rockville MD 20850 USA
+Job Type
+Permanent
+Remote Employment
+Flexible/Hybrid
+Job Number
+2026-00322
+Department
+Department of Technology and Enterprise Business Solutions
+Division
+TBS 34 ODT Web Solutions Team
+Opening Date
+06/24/2026
+Closing Date
+7/1/2026 11:59 PM Eastern
+FLSA
+Exempt
+
+
+Description
+Benefits
+Questions
+About the Position
+
+Please note: The salary range above represents this position’s earning potential. The anticipated hiring range for this position will be $98,662.00 to $171,403.00, based on the candidate’s qualifications and experience.
+
+WHO WE ARE
+The Web Services Team within the Department of Technology and Enterprise Business Solutions (TEBS)is responsible for managing and continuously improving the County’s enterprise website and digital presence. The team partners with departments across the organization to ensure web content is accurate, accessible, and user-centered, while working closely with external vendors to support the underlying platform and deliver ongoing enhancements. As the County continues to modernize its digital services, this team plays a critical role in shaping how residents, businesses, and employees interact with government online. It is an exciting team to join because it sits at the intersection of technology, communication, and service delivery—offering the opportunity to drive meaningful impact, influence enterprise standards, and help define the future of digital government.
+
+WHO WE ARE LOOKING FOR
+The Department of Technology and Enterprise Business Solutions (TEBS) is currently recruiting for a Web Services and Digital Platform Manager (Manager-III (Download PDF reader)), Grade M3. This role responsible for the strategic, operational, and technical oversight of the County’s enterprise website and related digital services. This role leads a small team of web content managers while functioning as the product owner for the County’s web platform, managing the roadmap, vendor delivery, and ongoing service performance.
+This position bridges business needs, user experience, and technical delivery—ensuring the County’s website and associated web applications are scalable, accessible, secure, and aligned with enterprise standards.
+
+What You'll Be Doing
+Responsible for the strategic leadership, operational management, and continuous improvement of the County’s primary public-facing website and associated digital services. Candidates should understand that this is a product and service ownership role—not just a content management role. The position requires balancing strategy, operations, vendor management, and stakeholder engagement across a complex enterprise environment.
+
+This role is critical to ensuring the County’s digital presence is effectively managed, continuously improved, and aligned with organizational priorities, enabling residents, businesses, and employees to reliably access information and services online.
+
+The position supervises a team of three web content managers responsible for departmental content updates within the County’s CMS and other digital tools. The team has varying levels of experience and requires strong leadership to implement standards, best practices, and consistent processes across all web operations.
+
+KEY RESPONSIBILITIES
+Product Management & Roadmap Ownership
+Serve as the product owner for the County’s website platform and digital service ecosystem.
+Define and maintain a multi-year product roadmap driven by business needs, analytics, and user research.
+Prioritize enhancements, feature requests, defects, and improvements for enterprise value.
+Manage the development backlog in coordination with platform vendor.
+ Lead release planning and ensure alignment between roadmap objectives and vendor deliverables.
+Website Governance & Standards
+Establish and enforce County-wide web governance, standards, and policies.
+Define requirements for design, UX, navigation, accessibility, and content quality.
+Review and approve departmental requests for web apps and digital integrations.
+Ensure consistency, usability, and scalability across all County web properties.
+Vendor Management & Platform Oversight
+Serve as primary point of contact for website platform vendors.
+Manage SLAs, KPIs, contracts, and vendor performance.
+Coordinate releases, enhancements, upgrades, and defect resolution.
+Hold vendors accountable for timelines, quality, and system stability.
+Collaborate with procurement on contract renewals and negotiations.
+Service Management & SLA Enforcement
+Define and enforce SLAs for content updates and issue resolution.
+Lead the intake, triage, and prioritization of web requests County-wide.
+Establish and track service metrics to improve responsiveness and quality.
+Drive continuous improvement in digital service delivery.
+Content Operations Management
+Oversee daily content operations and publishing workflows.
+Lead and support a team of content managers across multiple departments.
+Define content standards, review processes, and publishing protocols.
+Ensure content accuracy, compliance, and alignment with County standards.
+ Technical Oversight & Web Operations
+Oversee infrastructure including domains, DNS, URLs, SSL, and redirects.
+Lead major updates, migrations, and digital transformation initiatives.
+Coordinate with IT and vendors to ensure reliability, uptime, and security.
+Maintain expertise in modern CMS platforms, frameworks, and integrations.
+Digital Optimization
+Establish SEO and search optimization best practices.
+Implement AI tools to improve content quality, consistency, and findability.
+Optimize content structure for AI-driven and generative search environments.
+Accessibility & Compliance
+Ensure all web properties comply with WCAG 2.1 AA, ADA/Title II, and related requirements.
+ Implement accessibility workflows and governance mechanisms.
+Support departments in accessibility remediation and continuous compliance.
+Analytics & Performance Management
+Define and track KPIs for website performance, engagement, and usability.
+Use data insights to drive content decisions and inform the digital roadmap.
+Deliver executive-level reporting and strategic recommendations.
+Stakeholder Engagement & Intake Management
+Partner with County departments to understand business needs and develop digital solutions.
+Manage intake and prioritization of web projects and enhancements.
+Serve as a strategic advisor on digital presence, UX, and content strategy.
+Manage expectations across diverse stakeholder groups.
+Team Leadership & Performance Management
+Lead, coach, and develop a team of three web content managers.
+Set clear goals, KPIs, and accountability standards.
+Conduct performance reviews and support professional development.
+Foster a collaborative, high-performing, service-oriented team environment.
+Incident & Issue Management
+Oversee response to website outages, incidents, and service disruptions.
+Coordinate with IT and vendors to ensure timely resolution.
+Establish escalation protocols and communication standards.
+Provide after-hours support for urgent, high-severity incidents as needed.
+
+Work Schedule: This position may require occasional evening and weekend hours based on program needs.
+
+Telework: This position may be eligible for limited hybrid telework, up to two days per week, after the initial training period.
+
+A criminal background (and credit history) check will be conducted on the selected candidate prior to appointment and will be a significant factor in the hiring decision.
+
+This position carries supervisory responsibilities and requires managing, coaching, and developing staff to ensure effective program operations.
+
+Minimum Qualifications
+
+EXPERIENCE: Five (5) years of progressively responsible professional experience in website management, digital platforms, or a related technical field, including leadership and supervisory responsibilities:
+Experience managing vendors and external service providers
+Strong understanding of CMS platforms, including Drupal
+Knowledge of web architecture and infrastructure (DNS, hosting, domains)
+Experience with website deployment and cutover processes
+Experience with web integrations and application delivery
+Experience defining and managing SLAs and service delivery models
+Experience implementing and managing SEO strategies for enterprise websites
+Familiarity with AI tools used in content creation and optimization
+Understanding of modern search trends, including voice search and AI-driven search experiences
+EDUCATION: Graduation from an accredited college or university with a bachelor’s degree in computer science, Web Development, Government Relations, Public Administration, or related field.
+EQUIVALENCY: An equivalent combination of education and experience may be substituted.
+
+Please note: Preference would be given to candidates with 10+ years of progressively responsible professional experience in website management, digital platforms, or a related technical field, plus 5+ years of leadership and managerial skills.
+
+PROBATIONARY PERIOD: Individuals appointed to this class will be required to serve a probationary period of twelve (12) months. Individuals promoted to this class will be required to serve a probationary period of six (6) months. During the probationary period, performance will be carefully evaluated. Continuation in this class will be contingent upon successful completion of the probationary period. 
+Medical Protocol: This position requires successful completion of a pre-employment medical evaluation, which includes a physical examination and drug screening.
+Financial Disclosure Statement: This position is designated as one that requires filing a Financial Disclosure Statement and will be required to disclose information about your financial affairs.
+
+Preferred Criteria, Interview Preferences
+The applications of those individuals meeting the minimum qualifications will be reviewed to determine the extent, relevance of training, and experience in the following areas:
+
+Five plus (5+) years of managerial and leadership experience overseeing digital, web, or content-focused teams
+Ten plus (10+) years of progressively responsible experience in web/content management, digital strategy, or related fields
+Experience working in a government or public sector environment
+Knowledge of digital accessibility standards, including WCAG and ADA/Title II compliance
+Proficiency with website analytics tools such as Google Analytics
+Experience implementing structured data, schema markup, and modern search optimization techniques
+Experience optimizing content for AI-powered or conversational interfaces
+Familiarity with Google Search Console, SEO platforms (e.g., SEMrush, Ahrefs), or comparable tools
+Exposure to AI governance frameworks, prompt methodologies, or enterprise AI adoption strategies
+Experience managing enterprise-scale or multi-department digital platforms
+Familiarity with IT service management frameworks such as ITIL
+Key Competencies
+Vendor and contract management
+Product management and roadmap ownership
+Technical fluency in web platforms, CMS environments, and supporting infrastructure
+Service delivery oversight and SLA management
+Strong stakeholder engagement, influence, and cross-functional coordination skills
+Strategic thinking and governance capabilities
+Team leadership, coaching, and performance management
+Digital discoverability and SEO strategy expertise
+AI literacy and applied use of AI in content operations
+Ability to shape forward-looking digital strategies informed by trends in AI, search evolution, and user behavior
