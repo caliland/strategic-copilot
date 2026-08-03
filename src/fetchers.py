@@ -134,6 +134,7 @@ def fetch_workday(handle: str, company_name: str, seniority_keywords: list = Non
             break
         listings.extend(batch)
         total = data.get('total', 0)
+        print(f'    DEBUG: Workday reports total={total}, batch_size={len(batch)}')
         offset += limit
         if offset >= total or offset >= 500:  # cap at 500 results
             break
