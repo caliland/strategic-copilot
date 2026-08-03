@@ -111,9 +111,7 @@ def fetch_workday(handle: str, company_name: str, seniority_keywords: list = Non
     api  = f'{base}/wday/cxs/{company_slug}/{board}'
 
     # Build pre-filter search string from profile seniority keywords
-    _default = ['VP', 'Director', 'Head of', 'Vice President', 'Senior Director']
-    terms = seniority_keywords or _default
-    search = ' OR '.join(f'"{t}"' if ' ' in t else t for t in terms)
+    search = ''
 
     listings = []
     offset, limit = 0, 20
@@ -137,7 +135,7 @@ def fetch_workday(handle: str, company_name: str, seniority_keywords: list = Non
         listings.extend(batch)
         total = data.get('total', 0)
         offset += limit
-        if offset >= total or offset >= 200:  # cap at 200 pre-filtered results
+        if offset >= total or offset >= 500:  # cap at 500 results
             break
         time.sleep(0.3)
 
